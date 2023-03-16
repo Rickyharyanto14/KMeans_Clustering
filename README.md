@@ -11,15 +11,9 @@
 4. `from sklearn.cluster import KMeans`
 
 ## :bulb: Insight
-1. Num of Cluster
-<p align="center">
-  <img src="https://github.com/Rickyharyanto14/KMeans_Clustering/edit/Keep-Walking/output/Elbow.png" width="350" title="Elbow">
-</p>
 
-2. Clustered Customers
+![Elbow](https://user-images.githubusercontent.com/111473502/225552951-0adc068e-27bc-4b5d-bc41-5aed1972ac4e.png)
 
-<p align="center">
-  <img src="https://github.com/Rickyharyanto14/KMeans_Clustering/edit/Keep-Walking/output/Clustered_Customers.png" width="350" title="Clustered Customers">
-</p>
+![Clustered_Customers](https://user-images.githubusercontent.com/111473502/225553065-b6ca7bc8-27de-49a4-ba0a-317cb1f3837d.png)
 
 3. From the output graphic (No. 2) we can see that the purple cluster, there are people with high income and high spend. It's good for keeping close with them.
