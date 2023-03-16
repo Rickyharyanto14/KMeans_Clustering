@@ -12,9 +12,14 @@
 
 ## :bulb: Insight
 1. Num of Cluster
-![alt text](https://github.com/Rickyharyanto14/KMeans_Clustering/edit/Keep-Walking/output/Elbow.png)
+<p align="center">
+  <img src="https://github.com/Rickyharyanto14/KMeans_Clustering/edit/Keep-Walking/output/Elbow.png" width="350" title="Elbow">
+</p>
 
 2. Clustered Customers
-![alt text](https://github.com/Rickyharyanto14/KMeans_Clustering/edit/Keep-Walking/output/Clustered_Customers.png)
+
+<p align="center">
+  <img src="https://github.com/Rickyharyanto14/KMeans_Clustering/edit/Keep-Walking/output/Clustered_Customers.png" width="350" title="Clustered Customers">
+</p>
 
 3. From the output graphic (No. 2) we can see that the purple cluster, there are people with high income and high spend. It's good for keeping close with them.
